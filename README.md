@@ -17,7 +17,7 @@
 - [**Contact**](mailto:maximus@nextwork.org)
 - [**Email**](rahulkumar.workspace@gmail.com)
 
-<a href="https://www.linkedin.com/in/108rahul-kumar//" target="blank"> 
+<a href="https://www.linkedin.com/in/108rahul-kumar/" target="blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
 </a>
 <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
