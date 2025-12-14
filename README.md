@@ -20,6 +20,6 @@
 <a href="https://www.linkedin.com/in/108rahul-kumar/" target="blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://www.instagram.com/_r.a.h.u.l.k.u.m.a.r_/?next=%2F" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
